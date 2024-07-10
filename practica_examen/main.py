@@ -27,6 +27,7 @@ while True:
         fun.guardarAlumno(estudiante)
     elif (opc == 6):
         print("Cerrando sesión....")
+        print("...")
         break
     else:
         print("A ocurrido un error, Vuelva a intentarlo...")
